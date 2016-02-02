@@ -5,3 +5,9 @@ body {
 span {
 	 font-size: 30px;
 }
+div{
+	font-weight: 200px;
+}
+small {
+	width: 200px;
+}
