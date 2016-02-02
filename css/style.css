@@ -5,3 +5,6 @@ body {
 span {
 	 font-size: 30px;
 }
+mark {
+	font-size: 20px;
+}
